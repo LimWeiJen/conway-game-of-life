@@ -1,5 +1,15 @@
 <h1 align="center">Conway's Game Of Life</h1>
 
+<p align="center">
+  <a href="#about">About</a>
+  •
+  <a href="#rules-of-conways-game-of-life">Rules</a>
+  •
+  <a href="#installation">Installation</a>
+  •
+  <a href="#technologies">Technologies</a>
+</p>
+
 ## About
 [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a cellular automaton devised by the British mathematician John Horton Conway in 1970. This simulation of Conway's Game Of Life is made using python with pygame.
 
@@ -15,7 +25,7 @@
 3. Click on random squares to change the state of that square
 4. Hit Enter to start/pause the simulation
 
-## Tools Used
+## Technologies
 1. python
 2. pygame
 3. numpy
